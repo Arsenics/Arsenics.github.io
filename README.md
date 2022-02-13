@@ -26,6 +26,8 @@
 
 [SQLi/SQLi for dummies](<SQLi/SQLi for dummies.pdf>)
 
+[SSRF_depix_internals_arsenics](<SSRF_depix_internals_arsenics.pdf>)
+
 [Silicon Valley episodio 1](<Silicon Valley episodio 1.pdf>)
 
 [Silicon Valley episodio 2](<Silicon Valley episodio 2.pdf>)
