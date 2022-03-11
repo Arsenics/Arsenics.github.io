@@ -22,6 +22,8 @@
 
 [Matrix Arsenics ep3](<Matrix Arsenics ep3.pdf>)
 
+[PCAP & CLOUD SSRF](<PCAP & CLOUD SSRF.pdf>)
+
 [Pickle Python Vulnerability_arsenics](<Pickle Python Vulnerability_arsenics.pdf>)
 
 [SQLi/SQLi for dummies](<SQLi/SQLi for dummies.pdf>)
