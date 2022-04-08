@@ -1,5 +1,7 @@
 # Write-ups
 
+[Analyzing Java & path transversal](<Analyzing Java & path transversal.pdf>)
+
 [Analyzing USB protocol_arsenics](<Analyzing USB protocol_arsenics.pdf>)
 
 [Arsenics_Breaking bad episode 2](<Arsenics_Breaking bad episode 2.pdf>)
